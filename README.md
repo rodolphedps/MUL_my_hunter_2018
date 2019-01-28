@@ -7,4 +7,4 @@ Compile using Makefile :
   -run make
   -then ./my_hunter
   
-The aime of the game is to kill the duck, use your mouse to aim and click to shoot.
+The aim of the game is to kill the duck, use your mouse to aim and click to shoot.
